@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" />
 </p>
 
