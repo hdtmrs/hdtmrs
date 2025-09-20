@@ -1,22 +1,18 @@
 <h1 align="center">👋 Olá, eu sou o André!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBukhTvnSnuF0WI/giphy.gif" width="200"/>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor focado em **React Native** + **Laravel**  
+- 💻 Desenvolvedor focado em **Back end**, mas entendo um pouco de **tudo**  
 - 📚 Estudante da **ETEC Guaianazes** (Desenvolvimento de Sistemas)  
-- 🌎 Apaixonado por tecnologia, código limpo e resolver problemas reais  
+- 🌎 Fascinado por tecnologia, gosto de me provar ser o melhor, resolver problemas e às vezes caçar eles 😅  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hdtmrs&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtmrs&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -29,23 +25,21 @@
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" />
 </p>
 
 ---
 
 ## 🔥 Projetos em Destaque
-- [📱 App Mobile com React Native + Laravel](https://github.com/seuusuario/seuprojeto)  
-- [🌍 Sistema de Mapas com Geolocalização](https://github.com/seuusuario/seuprojeto2)  
-- [🔐 Autenticação com Passport e API](https://github.com/seuusuario/seuprojeto3)  
+- [📱 App Mobile com React Native + Laravel](https://github.com/hdtmrs/prjMercadoPago)  
+- [🌍 Sistema de Mapas com Geolocalização](https://github.com/Grupo-Umond/workspaceMondSec)  
 
 ---
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/seuusuario/">
-    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:hdtmrsame8@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" />
   </a>
 </p>
