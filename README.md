@@ -11,8 +11,14 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdtmrs&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtmrs&layout=compact&theme=radical" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hdtmrs&show_icons=true&theme=radical&cache_seconds=86400" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtmrs&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
 ---
@@ -31,7 +37,6 @@
 ---
 
 ## 🔥 Projetos em Destaque
-- [📱 App Mobile com React Native + Laravel](https://github.com/hdtmrs/prjMercadoPago)  
 - [🌍 Sistema de Mapas com Geolocalização](https://github.com/Grupo-Umond/workspaceMondSec)  
 
 ---
