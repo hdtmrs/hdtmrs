@@ -12,14 +12,15 @@
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hdtmrs&show_icons=true&theme=radical&cache_seconds=86400" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hdtmrs&show_icons=true&theme=radical"
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdtmrs&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hdtmrs&layout=compact&theme=radical&langs_count=8"
     height="180"
   />
 </p>
+
 
 ---
 
